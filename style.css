@@ -1,0 +1,35 @@
+.test_image_and_result
+{
+    text-align: center;
+    background-color: grey;
+color: white;
+margin-top: 20px;
+margin-bottom: 20px;
+}
+.mini_result
+{
+    color: white;
+    font-size: 25px;
+}
+img
+{
+    height: 400px;
+    width: 400px;  
+    border-radius: 50px;
+   margin-bottom: 20px;
+}
+
+h5
+{
+background-color: rgb(255, 255, 255);
+border-radius: 50px;
+color: purple ;
+}
+h1
+{
+    text-align: center;
+}
+.mobile
+{
+    color: red;
+}
